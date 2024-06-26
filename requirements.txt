@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+qiskit
+tensorflow
+torch
+qiskit_aer
